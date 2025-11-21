@@ -1,0 +1,7 @@
+{
+  "name": "Daniel Ramos - AI Portfolio",
+  "description": "Interactive AI Portfolio for Daniel Ramos. Ask questions about experience, skills, and projects powered by Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
